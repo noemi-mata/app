@@ -1,17 +1,56 @@
 # directorio_dolores
 
-A new Flutter project.
+# Directorio Dolorense
 
-## Getting Started
+**Alumna:** Noemi Mata Ruiz
+**Materia:** Desarrollo Móvil · UTNG
 
-This project is a starting point for a Flutter application.
+App en Flutter que consume una API local hecha en Node.
 
-A few resources to get you started if this is your first Flutter project:
+Ronda 1 · API local
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<img width="580" height="95" alt="image" src="https://github.com/user-attachments/assets/4386346f-15ed-4f69-89d7-e330d631ed1d" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Ronda 2 · Modelo Negocio
+
+🔴 Error
+
+<img width="581" height="401" alt="image" src="https://github.com/user-attachments/assets/0f469142-66c5-4d06-906d-0f76e5f1031b" />
+
+
+<img width="275" height="22" alt="image" src="https://github.com/user-attachments/assets/877678e8-79a3-4488-8a43-d1a3d8f599ba" />
+
+capturas/r2_pasa.png
+
+Ronda 3 · Cliente HTTP
+
+🔴 Error
+
+<img width="590" height="381" alt="image" src="https://github.com/user-attachments/assets/d45f6a91-89ea-4297-8405-53da5dbf6c50" />
+
+capturas/r3_error.png
+
+🟢 Pasa
+
+<img width="389" height="26" alt="image" src="https://github.com/user-attachments/assets/41c2da7c-ad54-4ee7-9ddd-7d631ad60461" />
+
+Ronda 4 · Configuración
+
+capturas/r4.png
+
+Ronda 5 · ViewModel
+
+🔴 Error
+
+capturas/r5_error.png
+
+🟢 Pasa
+
+capturas/r5_pasa.png
+
+## Ronda 6 · App funcionando
+
+<img width="369" height="736" alt="image" src="https://github.com/user-attachments/assets/0540ed9e-75d5-4503-a703-bc8e1bb0b2d0" />
+
+<img width="368" height="737" alt="image" src="https://github.com/user-attachments/assets/b88a10ed-8ec4-403d-959f-f174aaea9184" />
