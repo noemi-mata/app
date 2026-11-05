@@ -19,9 +19,10 @@ Ronda 2 · Modelo Negocio
 <img width="581" height="401" alt="image" src="https://github.com/user-attachments/assets/0f469142-66c5-4d06-906d-0f76e5f1031b" />
 
 
+🟢 Pasa
+
 <img width="275" height="22" alt="image" src="https://github.com/user-attachments/assets/877678e8-79a3-4488-8a43-d1a3d8f599ba" />
 
-capturas/r2_pasa.png
 
 Ronda 3 · Cliente HTTP
 
@@ -29,7 +30,6 @@ Ronda 3 · Cliente HTTP
 
 <img width="590" height="381" alt="image" src="https://github.com/user-attachments/assets/d45f6a91-89ea-4297-8405-53da5dbf6c50" />
 
-capturas/r3_error.png
 
 🟢 Pasa
 
@@ -37,17 +37,17 @@ capturas/r3_error.png
 
 Ronda 4 · Configuración
 
-capturas/r4.png
-
-Ronda 5 · ViewModel
-
 🔴 Error
 
-capturas/r5_error.png
 
 🟢 Pasa
 
-capturas/r5_pasa.png
+
+🔴 Error
+
+
+🟢 Pasa
+
 
 ## Ronda 6 · App funcionando
 
