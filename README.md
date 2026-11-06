@@ -35,19 +35,6 @@ Ronda 3 · Cliente HTTP
 
 <img width="389" height="26" alt="image" src="https://github.com/user-attachments/assets/41c2da7c-ad54-4ee7-9ddd-7d631ad60461" />
 
-Ronda 4 · Configuración
-
-🔴 Error
-
-
-🟢 Pasa
-
-
-🔴 Error
-
-
-🟢 Pasa
-
 
 ## Ronda 6 · App funcionando
 
